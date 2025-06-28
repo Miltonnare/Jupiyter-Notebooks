@@ -16,7 +16,7 @@ Versicolor
 
 Virginica
 
-Columns:
+## Columns:
 
 sepal_length: Length of the sepal in cm
 
@@ -28,7 +28,7 @@ petal_width: Width of the petal in cm
 
 species: The species of the iris plant
 
-Steps Involved
+## Steps Involved
 
 1. Data Loading and Inspection
 The data was loaded into a Pandas DataFrame. We performed an initial inspection using the .head() method to check the first few rows of the data.
@@ -57,7 +57,7 @@ Scatter Plot: Relationship between petal length and petal width.
 
 These visualizations helped identify key patterns in the dataset and the relationships between features.
 
-Key Insights
+## Key Insights
 
 Mean Sepal and Petal Sizes:
 
@@ -67,11 +67,11 @@ Petal Width vs. Petal Length:
 
 A strong positive correlation exists between petal width and petal length across species, particularly for Virginica and Versicolor.
 
-Species Differences:
+## Species Differences:
 
 Significant differences between species in terms of petal length and petal width. Setosa, in particular, stands out with its smaller petals.
 
-Visualizations
+## Visualizations
 
 Here are the four key visualizations created for this analysis:
 
@@ -83,11 +83,11 @@ Here are the four key visualizations created for this analysis:
 
 4. Scatter Plot - Petal Length vs. Petal Width
 
-Conclusion
+## Conclusion
 
 This analysis provides a comprehensive overview of the Iris dataset, helping us understand the key features of the flowers and their relationships. The visualizations offer valuable insights into the distribution of petal and sepal lengths and widths, as well as the differences between species.
 
-Requirements
+## Requirements
 
 To run the analysis and generate the visualizations, you will need the following Python libraries:
 

@@ -47,13 +47,13 @@ We grouped the dataset by the species column and calculated the mean for each sp
 *5. Visualization*
 The following visualizations were created to gain better insights:
 
-Line Chart: A trend over time, e.g., sepal length over different measurements.
+*Line Chart: A trend over time, e.g., sepal length over different measurements.*
 
-Bar Chart: Comparison of average petal length for each species.
+*Bar Chart: Comparison of average petal length for each species.*
 
-Histogram: Distribution of petal lengths across all species.
+*Histogram: Distribution of petal lengths across all species.*
 
-Scatter Plot: Relationship between petal length and petal width.
+*Scatter Plot: Relationship between petal length and petal width.*
 
 These visualizations helped identify key patterns in the dataset and the relationships between features.
 
@@ -75,19 +75,19 @@ Significant differences between species in terms of petal length and petal width
 
 Here are the four key visualizations created for this analysis:
 
-1. Line Chart - Petal Length Over Measurements
+*1. Line Chart - Petal Length Over Measurements*
 
-2. Bar Chart - Average Petal Length per Species
+*2. Bar Chart - Average Petal Length per Species*
 
-3. Histogram - Distribution of Petal Length
+*3. Histogram - Distribution of Petal Length*
 
-4. Scatter Plot - Petal Length vs. Petal Width
+*4. Scatter Plot - Petal Length vs. Petal Width*
 
-## Conclusion
+## **Conclusion**
 
 This analysis provides a comprehensive overview of the Iris dataset, helping us understand the key features of the flowers and their relationships. The visualizations offer valuable insights into the distribution of petal and sepal lengths and widths, as well as the differences between species.
 
-## Requirements
+## **Requirements**
 
 To run the analysis and generate the visualizations, you will need the following Python libraries:
 

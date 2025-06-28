@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This repository contains a detailed analysis of the Iris dataset using Python and various data analysis tools. The dataset has been explored, cleaned, analyzed, and visualized using popular libraries such as Pandas, Matplotlib, and Seaborn.
+This repository contains a detailed analysis of the **Iris dataset** using Python and various data analysis tools. The dataset has been explored, cleaned, analyzed, and visualized using popular libraries such as Pandas, Matplotlib, and Seaborn.
 
 The key insights derived from the dataset include basic statistics, group-wise analysis, and visualizations that highlight trends and relationships between various features.
 

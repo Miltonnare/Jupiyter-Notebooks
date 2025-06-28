@@ -18,15 +18,15 @@ Virginica
 
 ## Columns:
 
-sepal_length: Length of the sepal in cm
+*sepal_length: Length of the sepal in cm*
 
-sepal_width: Width of the sepal in cm
+*sepal_width: Width of the sepal in cm*
 
-petal_length: Length of the petal in cm
+*petal_length: Length of the petal in cm*
 
-petal_width: Width of the petal in cm
+*petal_width: Width of the petal in cm*
 
-species: The species of the iris plant
+*species: The species of the iris plant*
 
 ## Steps Involved
 

@@ -1,12 +1,12 @@
-## Data Analysis of Iris Dataset
+## **Data Analysis of Iris Dataset**
 
-## Overview
+## **Overview**
 
 This repository contains a detailed analysis of the Iris dataset using Python and various data analysis tools. The dataset has been explored, cleaned, analyzed, and visualized using popular libraries such as Pandas, Matplotlib, and Seaborn.
 
 The key insights derived from the dataset include basic statistics, group-wise analysis, and visualizations that highlight trends and relationships between various features.
 
-## Dataset
+## **Dataset**
 
 The dataset used for this analysis is the Iris dataset, a well-known dataset in machine learning. It contains 150 records, with 4 features (sepal length, sepal width, petal length, and petal width) for each flower of 3 different species:
 
@@ -30,21 +30,21 @@ species: The species of the iris plant
 
 ## Steps Involved
 
-1. Data Loading and Inspection
+*1. Data Loading and Inspection*
 The data was loaded into a Pandas DataFrame. We performed an initial inspection using the .head() method to check the first few rows of the data.
 
-2. Data Exploration
+*2. Data Exploration*
 We explored the structure of the dataset by checking the data types and looking for missing values.
 
 Missing values, if any, were handled by either filling them with appropriate values or dropping them.
 
-3. Statistical Summary
+*3. Statistical Summary*
 The basic statistical details, including the mean, median, and standard deviation, were calculated using .describe() for the numerical columns. This provided insights into the distribution of the data.
 
-4. Group-wise Analysis
+*4. Group-wise Analysis*
 We grouped the dataset by the species column and calculated the mean for each species across the numerical features (sepal length, sepal width, petal length, petal width). This helped us understand the average size of each feature for each flower species.
 
-5. Visualization
+*5. Visualization*
 The following visualizations were created to gain better insights:
 
 Line Chart: A trend over time, e.g., sepal length over different measurements.

@@ -91,10 +91,10 @@ This analysis provides a comprehensive overview of the Iris dataset, helping us 
 
 To run the analysis and generate the visualizations, you will need the following Python libraries:
 
-Pandas
+**Pandas**
 
-NumPy
+**NumPy**
 
-Matplotlib
+**Matplotlib**
 
-Seaborn
+**Seaborn**

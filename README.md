@@ -101,4 +101,5 @@ To run the analysis and generate the visualizations, you will need the following
 
 
 ## **Something About Data**
+Data is the silent force powering our world. Every click, swipe, purchase, and conversation leaves behind a digital footprint.
 

@@ -105,3 +105,4 @@ Data is the silent force powering our world. Every click, swipe, purchase, and c
 ## **Future of Data**
 
 We live in a world where data no longer sleeps. Every click, every movement, every heartbeat of business and life is recorded, refined, and reimagined.
+It’s no longer just information—it’s insight, direction, and power.
